@@ -46,7 +46,7 @@ pfSense (LAN) → NETGEAR XR1000 (Access Point Mode)
 - VPN setup (optional)
 
 ## 📸 Screenshots & Diagrams
-![Network Diagram](image.png)
+![[Pasted image 20251105124830.png]]
 
 ## 🔗 Resources
 - [Intel i210-T1 NIC on Scorptec](https://www.scorptec.com.au/product/networking/adapters/103015-i210t1)
